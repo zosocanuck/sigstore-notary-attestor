@@ -1,0 +1,1 @@
+~/spire-1.10.4/bin/spire-server entry create -parentID spiffe://example.org/myagent -spiffeID spiffe://example.org/myservice -selector docker:image_id:zosocanuck/docker-attestor-test --socketPath sock/server.sock
